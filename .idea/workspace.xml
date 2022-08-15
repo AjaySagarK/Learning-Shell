@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a39d555-3347-4756-8a83-c608be04ebd8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shell-script" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/cart.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/catalogue.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/frontend.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/mongodb.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/mysql.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/payment.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/rabbitmq.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/redis.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/shipping.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/user.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/roboshop.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +30,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2DLxwfvTDfdSEZoClTymcniIDZI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
