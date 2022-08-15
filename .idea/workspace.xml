@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a39d555-3347-4756-8a83-c608be04ebd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/cart.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/catalogue.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/frontend.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/mongodb.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/mysql.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/payment.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/rabbitmq.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/redis.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/shipping.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/components/user.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-shell-script/roboshop.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-push-script" beforeDir="false" afterPath="$PROJECT_DIR$/git-push-script" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/roboshop-shell-script" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
