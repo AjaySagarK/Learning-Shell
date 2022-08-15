@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3a39d555-3347-4756-8a83-c608be04ebd8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/roboshop-shell-script" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shell-script" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/components/cart.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shell-script/components/cart.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
