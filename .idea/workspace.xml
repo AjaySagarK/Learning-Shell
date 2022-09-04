@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c8093d8e-1f14-4af2-8394-2de2232984af" name="Changes" comment="EC2">
       <change beforePath="$PROJECT_DIR$/roboshop-shell-script" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shell-script" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/launch-instance-script/create-ec2.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-shell-script/launch-instance-script/create-ec2.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662280201608</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="EC2">
+      <created>1662280388490</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662280388490</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
